@@ -1,1 +1,2 @@
 # Fake-News-Detection
+Fake news is a real problem in today’s world, and it has become more extensive and harder to identify. A major challenge in fake news detection is to detect it in the early phase. So my algorithm makes use of pre-trained BERT transformer to learn the patterns from the previous fake news headlines and then predicts the possibility of a certain news to be fake or true in the early stages
